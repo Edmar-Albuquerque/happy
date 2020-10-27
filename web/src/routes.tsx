@@ -6,6 +6,7 @@ import OrphanagesMap from "./pages/OrphanagesMap";
 import Orphanage from "./pages/Orphanage";
 import CreateOrphanage from "./pages/CreateOrphanage";
 
+// routes
 function Routes() {
   return (
     <BrowserRouter>
